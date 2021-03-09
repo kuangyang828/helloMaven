@@ -9,6 +9,7 @@
 <html>
   <head>
     <title>$Title$</title>
+    <h2>2</h2>
   </head>
   <body>
   $END$
